@@ -1,6 +1,6 @@
 # Welcome to My HackPack Portfolio!
 
-Hey there! I'm [Your Name], a [Year] student at **North Carolina State University**. I've been an enthusiastic member of **HackPack** for [Time Period].
+Hey there! I'm David Badcoe, a Senior student at **North Carolina State University**. I've been an enthusiastic member of **HackPack** for 5 months.
 
 ## Portfolio Overview
 
@@ -16,15 +16,8 @@ This GitHub repository serves as my portfolio, showcasing my journey through the
 
 ## CTF Writeups
 
-1. [IdekCTF](#Writeups/idekctf)
+1. [BITSCTF](#Writeups/bitsctf)
 2. ...
-
-## Weekly Journals
-
-1. [January 2023](Weekly%20Journal/Spring%202023/January) - General CTF Review
-2. [February 2023](Weekly%20Journal/Spring%202023/February) - Web Exploitation 
-3. [March 2023](Weekly%20Journal/Spring%202023/March) - Binary Exploitation/Rev cont. and Network Security/Cryptography
-4. [April 2023](Weekly%20Journal/Spring%202023/April) - Network Security/Cryptography cont.
 
 
 ## Thank You for Visiting!
